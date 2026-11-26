@@ -1,0 +1,15 @@
+{
+    "background_color": "blue",
+    "description": "LVC - Empreendedorismo Digital",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "assets/img/emp.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "Empreendedorismo Digital",
+    "short_name": "Empreendedorismo",
+    "start_url": "index.html"
+  }
